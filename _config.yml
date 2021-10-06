@@ -15,6 +15,7 @@ keywords: ["blog", "jekyll"]
 ####################################
 #
 timezone:          Asia/Seoul
+encoding:	   utf-8
 markdown:          kramdown
 highlighter:       rouge
 excerpt_separator: <!--more-->
