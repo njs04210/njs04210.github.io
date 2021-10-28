@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://njs04210.github.io/sitemap.xml
+Sitemap: https://njs04210.github.io/sitemap.xml
