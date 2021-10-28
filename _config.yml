@@ -39,7 +39,7 @@ owner:
   job: "Back-end Developer"
   bio: "시작하는 개발일지"
   email: "pearlnkim@gmail.com"
-  disqus-shortname:
+  disqus-shortname: Jin Joo Kim
   twitter: #username
   facebook: #username
   google:
@@ -70,3 +70,5 @@ owner:
   codepen: #username
   reddit: #username
   telegram: #username
+layout: default
+comments: true
